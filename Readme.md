@@ -17,7 +17,6 @@ _Necesitas tu pc y tu terminal de ubuntu !!_
 
 _Clona o descarga  este repo
 
-_Dí cómo será ese paso_
 
 ```
 git clone https://github.com/alexandrajimenezc/menuDocker.git testmenu
